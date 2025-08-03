@@ -99,7 +99,7 @@ Los sistemas tradicionales de fidelización presentan:
 
 ###  **Arbitrum**
 
-- Desplegamos al menos un contrato en [Arbitrum One](https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction).
+- Desplegamos al menos un contrato en Arbitrum 
 - Prueba del despliegue (tx hash y dirección):  
     - **Contrato DynexaArbitrum.sol:**  
     
